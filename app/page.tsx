@@ -379,12 +379,13 @@ export default function Home() {
                 </p>
               </div>
               <div className="flex justify-center items-center h-full text-center w-1/4">
-                <Link
+                {/* <Link
                   href={"https://claimtrade.starserver.one/"}
-                  className="bg-sky-600 px-3 py-1 rounded-md hover:scale-105 hover:bg-sky-600/75"
+                  className="bg-gray-600 px-3 py-1 rounded-md hover:scale-105 hover:bg-sky-600/75"
                 >
-                  Visit
-                </Link>
+                  Pending
+                </Link> */}
+                <div className="bg-gray-600 px-3 py-1 rounded-md">Pending</div>
               </div>
             </div>
             <div className="w-3/4">
