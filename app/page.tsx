@@ -376,6 +376,8 @@ export default function Home() {
                 <h3 className="text-lg font-bold">Claimtrade</h3>
                 <p className="text-sm">
                   A trading marketplace for rights to mine minerals from land.
+                  Due to owner shutting down site, project is no longer
+                  deployed. Pending portfolio page...
                 </p>
               </div>
               <div className="flex justify-center items-center h-full text-center w-1/4">
