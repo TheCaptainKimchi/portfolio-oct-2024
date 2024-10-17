@@ -377,17 +377,16 @@ export default function Home() {
                 <p className="text-sm">
                   A trading marketplace for rights to mine minerals from land.
                   Due to owner shutting down site, project is no longer
-                  deployed. Pending portfolio page...
+                  deployed. A portfolio page created to accommodate.
                 </p>
               </div>
               <div className="flex justify-center items-center h-full text-center w-1/4">
-                {/* <Link
+                <Link
                   href={"https://claimtrade.starserver.one/"}
-                  className="bg-gray-600 px-3 py-1 rounded-md hover:scale-105 hover:bg-sky-600/75"
+                  className="bg-sky-600 px-3 py-1 rounded-md hover:scale-105 hover:bg-sky-600/75"
                 >
-                  Pending
-                </Link> */}
-                <div className="bg-gray-600 px-3 py-1 rounded-md">Pending</div>
+                  Visit
+                </Link>
               </div>
             </div>
             <div className="w-3/4">
