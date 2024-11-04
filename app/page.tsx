@@ -70,7 +70,7 @@ export default function Home() {
 
   // Main page content
   return (
-    <main className="overflow-hidden font-montserrat">
+    <main className="overflow-hidden text-white font-montserrat">
       {/* Header details */}
       <header className="flex border-b-[1px] border-sky-300 w-full justify-between items-center p-2 h-16 fixed top-0 bg-black z-50">
         <div className="flex items-center h-full justify-evenly w-1/2 lg:w-2/12">
